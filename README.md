@@ -31,15 +31,20 @@ cd Projetos-Yu-Gi-Oh
 
 ```
 /
-├── index.html
-├── style.css
-├── script.js
-└── README.txt
+├── CSS
+├── FONTE
+├── JS
+├── README.md
+└── index.html
 ```
 
 ## 📌 Funcionalidades
 
-- Mostra o baralho de cartas
+✅ Mostra o baralho de cartas
+
+## ✨ Melhorias Futuras
+ - Modo carta defesa
+ - Seleção de Personagem 
 
 ## 🛠️ Contribuição
 
@@ -62,10 +67,8 @@ git push origin minha-feature
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-
-
-
-
+## 📞 Contato
+📧 Email: pedroporteiras@gmail.com
 
 
 
